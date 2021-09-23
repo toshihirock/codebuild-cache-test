@@ -11,3 +11,4 @@ phases:
 cache:
   paths:
     - test.txt
+    - test.jpg
